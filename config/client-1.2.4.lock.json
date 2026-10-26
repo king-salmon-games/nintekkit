@@ -1,0 +1,763 @@
+{
+  "formatVersion": 1,
+  "pack": "1.2.4",
+  "minecraft": "1.12.2",
+  "forge": "14.23.5.2860",
+  "mods": [
+    {
+      "path": "mods/!configanytime-3.0.jar",
+      "bytes": 5201,
+      "sha256": "29fe190f0d1bb0b3841b2b9f315a5d561cab9f587df6164a0205440540577575"
+    },
+    {
+      "path": "mods/!mixinbooter-9.3.jar",
+      "bytes": 1800887,
+      "sha256": "94176c2934f92bd1c17156f4df01a8dbe4ac67429296aa153597934e2937186e"
+    },
+    {
+      "path": "mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar",
+      "bytes": 55622,
+      "sha256": "54c063e72abb6af999d80b94a2f1c9593c6ef0bb7769f3410d2a49f47c1ba3b0"
+    },
+    {
+      "path": "mods/AdditionalBanners-1.12.2-1.1.77.jar",
+      "bytes": 89210,
+      "sha256": "e9a8d22825b0741025ba5912f4f100d85cfa24d1e4bece7b8a358e159598ba4c"
+    },
+    {
+      "path": "mods/additionalpipes-6.0.0.9-technic.jar",
+      "bytes": 232371,
+      "sha256": "e6741f8b0e7d82db1ffa6b370cb2ca042bd7776bbae4a2350671247bebfb8c27"
+    },
+    {
+      "path": "mods/advancedsolars-1.0.11.jar",
+      "bytes": 98550,
+      "sha256": "4dd7114bbe310864206408fa502991411d22f9d715638cab5a1cb207c77090c0"
+    },
+    {
+      "path": "mods/AkashicTome-1.2-12.jar",
+      "bytes": 44663,
+      "sha256": "4edda1cb9a1eb9240b7c9087dfc0347b0f75c29f7239299991b27324524b167f"
+    },
+    {
+      "path": "mods/AppleSkin-mc1.12-1.0.14.jar",
+      "bytes": 33683,
+      "sha256": "4bbd37edecff0b420ab0eea166b5d7b4b41a9870bfb8647bf243140dc57f101e"
+    },
+    {
+      "path": "mods/AquaAcrobatics-1.15.4.jar",
+      "bytes": 182194,
+      "sha256": "506ee8e264c347fad33302183b8f4daddb05d5e5f75c0b6d833266c886e127ce"
+    },
+    {
+      "path": "mods/ASMC-1.12.2-1.0.2.jar",
+      "bytes": 4057289,
+      "sha256": "29aa1b312d33b73a2923236cf15ec31c7e9c7c07c7e3ec2f2c996745fc6fe6a6"
+    },
+    {
+      "path": "mods/AsmodeusCore-1.12.2-1.0.2.jar",
+      "bytes": 4203147,
+      "sha256": "d3d07fb6eb9b9a03e0e9030a4206a742e4754b4cfea5b9d06e22a14ac68fd7ea"
+    },
+    {
+      "path": "mods/AutoRegLib-1.3-32.jar",
+      "bytes": 108306,
+      "sha256": "d8610a94da8f30815db4612b3291ecdcfd8204eaf1a4db8c5d0663c7b1191d91"
+    },
+    {
+      "path": "mods/Backups-1.12.2-1.5.7.jar",
+      "bytes": 98541,
+      "sha256": "5d7fdda78778b508014aaece4200b7d8ec9f23a0164cf15265f9bb8303726924"
+    },
+    {
+      "path": "mods/badwithernocookiereloaded-1.12.2-3.4.18.jar",
+      "bytes": 10402,
+      "sha256": "f7df4a095a08d74f553b6223d0059490cd2b9197b15e26721fbfbaf708e8290a"
+    },
+    {
+      "path": "mods/BetterInvalidSession-1.12.2-1.0.3.jar",
+      "bytes": 3853,
+      "sha256": "da7edc7d88b6a03908f5e47481ac2862ce8b27df7b38e40a5c6bbd0bfb41fd0c"
+    },
+    {
+      "path": "mods/BetterPingDisplay-1.12.2-1.0.jar",
+      "bytes": 10689,
+      "sha256": "056736f67a1dcc64ca401fe5d55c4f6adfcaa866b3641113529b48847a90b18a"
+    },
+    {
+      "path": "mods/binnie-mods-1.12.2-2.5.1.212.jar",
+      "bytes": 5860442,
+      "sha256": "d9930ae3e472036b5857ec337690bf24c9cca21eb3adc57c8080e5e242db102c"
+    },
+    {
+      "path": "mods/blockcraftery-1.12.2-1.3.1.jar",
+      "bytes": 105052,
+      "sha256": "2b64a900a30d12c55c48f295097327eab5547fa3e7dccdce0f929ecdee25d038"
+    },
+    {
+      "path": "mods/buildcraft-all-7.99.24.8.jar",
+      "bytes": 4879732,
+      "sha256": "c8b0e0ae0cd52e8217185e8e6e603d37c95158d9e3701c1dae7bb927cee6b4ec"
+    },
+    {
+      "path": "mods/buildcraftfluxified-1.0.0.jar",
+      "bytes": 11447,
+      "sha256": "90785f14e5678ccbbf76b15cf2ea540fcfa9cbf5bdd17724830c805bce7553ed"
+    },
+    {
+      "path": "mods/CableFlux-1.12.2-12.2.3-technic2.jar",
+      "bytes": 44654,
+      "sha256": "6259ea9218abf24d910f6e1c8a11f57c236a24a62dc5ec64c932ca8669ec1c45"
+    },
+    {
+      "path": "mods/cc-tweaked-1.12.2-1.89.2.jar",
+      "bytes": 1815047,
+      "sha256": "f32537175f89ddc9890550a158a910e746cac2848db8f6f123865bd4a8a425fb"
+    },
+    {
+      "path": "mods/censoredasm5.20.jar",
+      "bytes": 1647684,
+      "sha256": "cf43c10333af76cc1eebd81d8d19fba212577e87cb7a9fc0461cb4011d100aba"
+    },
+    {
+      "path": "mods/Charset-Crafting-0.5.6.7.jar",
+      "bytes": 113697,
+      "sha256": "9cd54338d12b8602d2da665f5e90fc154cd721a6aa3c186dc0eb824d4f0a5c88"
+    },
+    {
+      "path": "mods/Charset-Immersion-0.5.6.0.jar",
+      "bytes": 27881,
+      "sha256": "21f11a527c49ed04b09003f25c7631fb5978158e480edad0d60f60c6cf27ad3c"
+    },
+    {
+      "path": "mods/Charset-Lib-0.5.6.6.jar",
+      "bytes": 1057690,
+      "sha256": "fea7c9084d1974b3d539c1693579ab07614b4bcc5a8bc6cb4a1d3c855e963cc8"
+    },
+    {
+      "path": "mods/Charset-StorageBarrels-0.5.6.6.jar",
+      "bytes": 84950,
+      "sha256": "5c01056f1177ec5ec0bba1c73e7b5701777db6635ee80bc05fd05d91069aade3"
+    },
+    {
+      "path": "mods/Chisel-MC1.12.2-1.0.2.45.jar",
+      "bytes": 4755282,
+      "sha256": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"
+    },
+    {
+      "path": "mods/chiselsandbits-14.33.jar",
+      "bytes": 737407,
+      "sha256": "0b086aced1beca90ed5bb25fe6951a4d191d9b49f221af1074d1f9ff4f364b74"
+    },
+    {
+      "path": "mods/ClientTweaks_1.12.2-3.1.11.jar",
+      "bytes": 30515,
+      "sha256": "ac75e2d505bda70dc3c4f0778d66a79213870ee43b74744e31e37f9c3aaf7654"
+    },
+    {
+      "path": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "bytes": 704330,
+      "sha256": "5f8499f7ee2590e45110bbf296b2bf101aec15897e28d5e9759cf8f2387d8a74"
+    },
+    {
+      "path": "mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "bytes": 505987,
+      "sha256": "f10cd57075690ecbe52094f8af0d2a5af12f89c82b7c6eb73d3d090d74206ea0"
+    },
+    {
+      "path": "mods/Computronics-1.12.2-1.6.7-railcraft-beta-8.jar",
+      "bytes": 1293080,
+      "sha256": "2c92d2ceccf1d9f68aa5764322cd7dec675c57044c7d6f65897405958b5b0bac"
+    },
+    {
+      "path": "mods/Controlling-3.0.12.4.jar",
+      "bytes": 34383,
+      "sha256": "f5edd4793f96cd5a6f31aecbd3030093b367a51afba5d6f7281756d0f9c03786"
+    },
+    {
+      "path": "mods/CraftingTableIV-1.12.2-1.5.123-technic.jar",
+      "bytes": 158785,
+      "sha256": "b2d340bcc8eeb1275322bddcb84de1d992fb2568f1b99155231c9c350d940283"
+    },
+    {
+      "path": "mods/CraftTweaker2-1.12-4.1.20.700.jar",
+      "bytes": 1589227,
+      "sha256": "56f58624e119c16fb421652bbe26a3ec06fbeb8cb53e68dd6bf3f1761ec8c6c2"
+    },
+    {
+      "path": "mods/cta-1.12.2-1.2.2.jar",
+      "bytes": 21815,
+      "sha256": "3dc58b9bf13a4f494db5d3c213222922afad1994944cd04c085a6c42b332648e"
+    },
+    {
+      "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
+      "bytes": 199045,
+      "sha256": "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b"
+    },
+    {
+      "path": "mods/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+      "bytes": 91121,
+      "sha256": "63b8e4d86b336739c9df8275d28e61519c73c815d0ba9ec18fb8d0cf8a218488"
+    },
+    {
+      "path": "mods/DamageTilt-1.12.2-0.1.0.jar",
+      "bytes": 8552,
+      "sha256": "0ff1b538040aaa128b66238cdf6cb2a3eb9a5dbc88170103eb48e86d8a567640"
+    },
+    {
+      "path": "mods/Debark-0.1.3.jar",
+      "bytes": 48640,
+      "sha256": "0ba50d6ec19a5c81fe3d59e5c2cbb45efbe895dabe7a1a08e8d11ba90862b7d2"
+    },
+    {
+      "path": "mods/DefaultOptions_1.12.2-9.2.8.jar",
+      "bytes": 15056,
+      "sha256": "1a4007ec8c503fe75faf7429b66c0ffe1555fa7a7d43147386049913ce6ebf4a"
+    },
+    {
+      "path": "mods/ElecCore-1.12.2-1.9.453.jar",
+      "bytes": 544144,
+      "sha256": "df882cf3eb14627678d4c32aa62dd7ceec9840f6c8d2adb4260dc4b80a3241c2"
+    },
+    {
+      "path": "mods/EnderStorage-1.12.2-2.4.6.137-universal.jar",
+      "bytes": 223250,
+      "sha256": "06e2357019f4e0836bfb9202af013adc125252f610b198a7a547d4596d2934c0"
+    },
+    {
+      "path": "mods/EnergyControl-1.12.2-0.3.2a.jar",
+      "bytes": 1277920,
+      "sha256": "57a11c22f5d6517029bbd4250ca1d5ac59826c29596b7b9f1fdaafa025b71e54"
+    },
+    {
+      "path": "mods/EntityCulling-1.12.2-6.4.3.jar",
+      "bytes": 64471,
+      "sha256": "fbd44e17ebf868fdfe727db5bda86aae5f9f96680b57b445cc8e99fc871e2647"
+    },
+    {
+      "path": "mods/Exchangers-1.12.2-2.10.3.jar",
+      "bytes": 334852,
+      "sha256": "19f56f24a0a2481926b1035b1619bd0958938a88630a1d439bb3b03d607f8c0a"
+    },
+    {
+      "path": "mods/ExperienceBugFix-1.12.2-1.0.0.0.jar",
+      "bytes": 50399,
+      "sha256": "f44ffe25a0c835571da284a03a8fb0700ac54d6d303f894c0674f66ef86c5015"
+    },
+    {
+      "path": "mods/fairylights-2.2.0-1.12.2.jar",
+      "bytes": 1161511,
+      "sha256": "524f1734869765f15185ced926bea0c46f133b0e22342bcb736b7a2da2f673f0"
+    },
+    {
+      "path": "mods/Fluidlogged-API-v2.2.7-mc1.12.2.jar",
+      "bytes": 368548,
+      "sha256": "808dc03a67099fcf8e3bc62f0965c8b8849bf55ad6ac8cac703aaf3e19cc9c61"
+    },
+    {
+      "path": "mods/forestry_1.12.2-5.8.2.422.jar",
+      "bytes": 5298295,
+      "sha256": "d466a5d574a5a3311b6c8572edcf72ce87881fb6296dce1d2d07d1649abc5205"
+    },
+    {
+      "path": "mods/Forgelin-1.8.4.jar",
+      "bytes": 6278399,
+      "sha256": "ccfcad80ef73ab815875a91979128ed58c262c479c7c0e5da65b225954bee197"
+    },
+    {
+      "path": "mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar",
+      "bytes": 1676294,
+      "sha256": "034c08a0b35fd311e61dbdc1fb65fadfbaefb7ec17a17934c73b1d2f1395cd6b"
+    },
+    {
+      "path": "mods/ForgeMultipart-1.12.2-2.6.3.1-universal.jar",
+      "bytes": 1238700,
+      "sha256": "0fdf362fd3eaa7ceedadf1825137c44068da3eca07ba830d78830a2842c05bd4"
+    },
+    {
+      "path": "mods/Galacticraft-1.12.2-4.0.7-technic-ic2c.jar",
+      "bytes": 15617697,
+      "sha256": "8f583400b87a8ed16b7ef6fc7dc4e26ff2a7bcb43353bc4d85df0f5497aac588"
+    },
+    {
+      "path": "mods/gravisuit-1.0.8.11-2.jar",
+      "bytes": 220728,
+      "sha256": "5769ba4c03c9284daaa20679566e7107f1c9741bead41e53a2c5ee3703069cde"
+    },
+    {
+      "path": "mods/Guide-API-1.12-2.1.8-63.jar",
+      "bytes": 169528,
+      "sha256": "e201712ef8fadc6c4b6380939751e92fe32cad2ba2dcb717e1acb3b07e0c2125"
+    },
+    {
+      "path": "mods/GunpowderLib-1.12.2-1.1.jar",
+      "bytes": 23153,
+      "sha256": "6130bd064d4aa1158308d699f370b5586447d026e2f559dfe14aa7df76cd6203"
+    },
+    {
+      "path": "mods/HadEnoughItems_1.12.2-4.25.5.jar",
+      "bytes": 687649,
+      "sha256": "e2fe0b5c6ce8eeda4444fdfbddb69cfba4f6ecb25c818ad6cdc37be129455857"
+    },
+    {
+      "path": "mods/HammerLib-1.12.2-2.0.6.32.jar",
+      "bytes": 2430079,
+      "sha256": "1accbf33afff19bf37d27400e39cf0931b2306cbadf92e2c4e74fd81803b79f4"
+    },
+    {
+      "path": "mods/HelpFixer-1.12.1-1.5.18.jar",
+      "bytes": 6778,
+      "sha256": "a3cc25bd00e3d63724f667f569889001be461eb8f383c03b931104ec42833cd5"
+    },
+    {
+      "path": "mods/Hwyla-1.8.26-B41_1.12.2.jar",
+      "bytes": 453778,
+      "sha256": "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124"
+    },
+    {
+      "path": "mods/IC2Classic-1.12.2-1.5.10.jar",
+      "bytes": 6221033,
+      "sha256": "4e4e327bddf394ea3eebea033e1d7c67e32ecff0a6f6a31ca2297cd2d96933db"
+    },
+    {
+      "path": "mods/ic2cuumatter-1.12.2-1.1.3.jar",
+      "bytes": 73925,
+      "sha256": "a3c04846af9dc51cf441d98a593c1cc05f8261caa532d204705d7b54b439203d"
+    },
+    {
+      "path": "mods/iChunUtil-1.12.2-7.2.2.jar",
+      "bytes": 581963,
+      "sha256": "e0b90727cbe54a11fe568f3d60cd59d64ff3c14f82437e1d1c10b575886ab8a3"
+    },
+    {
+      "path": "mods/IFPatcher-2.4.0.jar",
+      "bytes": 131134,
+      "sha256": "5359241f1b410384f6e5ff0b9c85ac5d7ed54e3b95521233e1c5b2db977d5342"
+    },
+    {
+      "path": "mods/industrialforegoing-1.12.2-1.12.13-237.jar",
+      "bytes": 1603134,
+      "sha256": "8b6e1aa820d7d02571aeae818b4ab9aa2d78e0d3b277d7be6df53e3153ae9ea7"
+    },
+    {
+      "path": "mods/IntegrationForegoing-1.12.2-1.11.jar",
+      "bytes": 220777,
+      "sha256": "f38ee79126f39002555e904b9baa7f963c4e3f96a734227c3f0fd5f980b42896"
+    },
+    {
+      "path": "mods/InventoryTweaks-1.63.jar",
+      "bytes": 263258,
+      "sha256": "ef2fdcb59f9a766ee5c3c4c514c78f0a9e35b3d6bf02c17051b7dd4e94efdf7a"
+    },
+    {
+      "path": "mods/ironchest-1.12.2-7.0.72.847.jar",
+      "bytes": 956692,
+      "sha256": "29d3a4115d67b83eb542b618eb64db40db23a7f009a0f4dc9a396101d6f8491f"
+    },
+    {
+      "path": "mods/irontanks-1.12.2-2.1.0-beta.18.jar",
+      "bytes": 63604,
+      "sha256": "e13f0c13fc92f1bf8c115e492c6adff2a15a328758e3685390d2405c7f077c47"
+    },
+    {
+      "path": "mods/jei_area_fixer-1.4.0.jar",
+      "bytes": 48966,
+      "sha256": "cde26ad7ab42152298b4eef560dd099fcb08ed81b6832b672b519e574acce991"
+    },
+    {
+      "path": "mods/jeibees-0.9.0.5-mc1.12.2.jar",
+      "bytes": 117480,
+      "sha256": "07c6c95eddf0f6f3d15339f373da51a638716c3cbe69f93da5586f7957e3c22a"
+    },
+    {
+      "path": "mods/jeiintegration_1.12.2-1.6.0.jar",
+      "bytes": 25196,
+      "sha256": "b072944ed22907db480bea91b0660924d3dcef266e6501de236d08c45d07dc19"
+    },
+    {
+      "path": "mods/jepb-1.12-1.2.1.jar",
+      "bytes": 27195,
+      "sha256": "1d4841af1f9988651f8174f0b1e90b5d8effa86f41490c987348f9e57527b01b"
+    },
+    {
+      "path": "mods/JonsExclusives-MC1.12.2-v1.1.3.jar",
+      "bytes": 82029,
+      "sha256": "2154c17ca245861746ab0846ae3349c7254ef3c74c32c9618be42463d77a6f58"
+    },
+    {
+      "path": "mods/justenoughdrags-1.4-beta.1.jar",
+      "bytes": 41853,
+      "sha256": "5b86ca32848d582af5cff579b697089f88b7722a5ce431d42568e926f0796b09"
+    },
+    {
+      "path": "mods/justenoughmagiculture-1.12.2-1.1.5.jar",
+      "bytes": 532174,
+      "sha256": "fb26b9d58c599381107c1efefe4638ce1680f83029461f44cbfd3793c1e1c484"
+    },
+    {
+      "path": "mods/JustEnoughResources-1.12.2-0.9.2.60.jar",
+      "bytes": 222270,
+      "sha256": "9ea4d7df19c0a53880aae5e745ef1e886854bea5c533878688587a5e3fdaebdd"
+    },
+    {
+      "path": "mods/KleeSlabs_1.12.2-5.4.12.jar",
+      "bytes": 23967,
+      "sha256": "597c21ab6f0d701ec2d7d9e6abdd9e4e3d949af1a9635ef018cef7df4c126e57"
+    },
+    {
+      "path": "mods/lemonlib-1.12.2-1.3.0.jar",
+      "bytes": 45341,
+      "sha256": "b76950b93358a9273fab35d9a3e57d81257527a04a38dcb2c9cd1485c5fa987d"
+    },
+    {
+      "path": "mods/LetSleepingDogsLie-1.12.2-1.0.2.jar",
+      "bytes": 19481,
+      "sha256": "674994649167d4e8a4dbfa296d76af0953e384ec1bf856f32898047f15efac8d"
+    },
+    {
+      "path": "mods/Loading-Progress-Bar-v1.0-mc[1.8-1.12.2].jar",
+      "bytes": 4810,
+      "sha256": "ccb4e2add5a5a09702368d90b1d9b8f50ff73c8c88ed7f388cd5f4775be0e2c6"
+    },
+    {
+      "path": "mods/logisticspipes-0.10.4.49.jar",
+      "bytes": 8896780,
+      "sha256": "bc5608db77c508b91b34f25525043d1a5bb11ddb328a995cdc2025df45543a3f"
+    },
+    {
+      "path": "mods/LunatriusCore-1.12.2-1.2.0.42-universal.jar",
+      "bytes": 76753,
+      "sha256": "67c5e8d8e975172d838f765040130ea0f73ec7a590b4470217a2f5516fdc652b"
+    },
+    {
+      "path": "mods/MainMenuScale-1.3.2.jar",
+      "bytes": 4174,
+      "sha256": "d2b59786e982b4b5a60714821edd9fd18b16a412a84bb3978b87f05be5c92a94"
+    },
+    {
+      "path": "mods/matmos-1.12.2-36.0.1+nomixin.jar",
+      "bytes": 740003,
+      "sha256": "ad65d92a95afaf073fd18551afc30e3fcbfd806ddbe979af59fb5f74ec257d72"
+    },
+    {
+      "path": "mods/MCMultiPart-2.5.3.jar",
+      "bytes": 173426,
+      "sha256": "ce28db33cfdca80c98dfbb2e5928a5f090477897fa6d28a37300d5564617fde2"
+    },
+    {
+      "path": "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar",
+      "bytes": 12259,
+      "sha256": "de8b85e79cb73826ec77d038bb8bae38e8e3e334526bac1a4812b29f6cf2ae24"
+    },
+    {
+      "path": "mods/MFFS-1.12.2-4.0.1.5-technic.jar",
+      "bytes": 514060,
+      "sha256": "84b1324729b9a55f9c7df319ba2ec59d1f0b4426b918ed1d51b7494a3cbe291d"
+    },
+    {
+      "path": "mods/mia-1.12.2-0.2.2a.jar",
+      "bytes": 933036,
+      "sha256": "a0cc5ac40ea56361f967647ca31dd69172260310e64b09baf6c7bd73c5e36cb5"
+    },
+    {
+      "path": "mods/MmmMmmMmmMmm-1.12-1.14.jar",
+      "bytes": 33622,
+      "sha256": "def6e04f8ecb9b506447dc52ec0aa8e310c02463caaeb7f73955b612af59c252"
+    },
+    {
+      "path": "mods/modernbetaforge-1.12.2-1.0.2.1.jar",
+      "bytes": 724298,
+      "sha256": "9d210fe502ca388bc10c87632c17e90fc16d8907eff169e0c7fd5e315b14c676"
+    },
+    {
+      "path": "mods/modernsplash-1.12.2-1.3.1.jar",
+      "bytes": 60546,
+      "sha256": "ed564bb473db81149c4bef39b1d404e263267f5832eef0c4d4f8afb652a20c7f"
+    },
+    {
+      "path": "mods/moreoverlays-1.15.1-technic1.jar",
+      "bytes": 51079,
+      "sha256": "c1006d7facd4b6de9a9d8416964affb67db13fcb4e0c64ccc850efe8abe8c6b3"
+    },
+    {
+      "path": "mods/moresoundconfig-1.0.4.jar",
+      "bytes": 27237,
+      "sha256": "7a62ee6873864043d345a9ddda02696d71121193e21f06cae645479975f35c1f"
+    },
+    {
+      "path": "mods/Morpheus-1.12.2-3.5.106.jar",
+      "bytes": 21508,
+      "sha256": "1904c32a8e0077e005bfefe005c26834c2df09881bc075a7deadce8da97fb457"
+    },
+    {
+      "path": "mods/mousetweaks-1.12.2-3.1.4.jar",
+      "bytes": 201557,
+      "sha256": "c21bb3ac59251b126b2b16872523ee08f906bbc062dc8add1ddabcfe77b99032"
+    },
+    {
+      "path": "mods/MrTJPCore-2.1.5.1-universal.jar",
+      "bytes": 803450,
+      "sha256": "0a7cc87f425098ce0850055d573b9ce5414dc581980fffc5d26fa430f0a7bb54"
+    },
+    {
+      "path": "mods/mysticallib-1.12.2-1.13.0.jar",
+      "bytes": 426226,
+      "sha256": "9293907825d431db479afd87fcc70b5d09b672231c2f66db2f41e74de02e4891"
+    },
+    {
+      "path": "mods/NaturesCompass-1.12.2-1.8.5.jar",
+      "bytes": 196434,
+      "sha256": "bd4f556b7e5480687dbc09735dca05a1ceb3622dc93422adb5dab4f68cc9f2d1"
+    },
+    {
+      "path": "mods/Netherending-Ores-1.12.2-1.4.2.jar",
+      "bytes": 367701,
+      "sha256": "84ac74ed254fcc2c7c9d1a9702d636a2c825a8825af7fe2db79f31bfe0cf8849"
+    },
+    {
+      "path": "mods/NoMoreRecipeConflict-0.13(1.12.2).jar",
+      "bytes": 50084,
+      "sha256": "6a021aa8bf091d82781deb3b4ecc272d6fd29d02962c2eb48a6c3a739332dde8"
+    },
+    {
+      "path": "mods/packcrashinfo-1.0.1.jar",
+      "bytes": 6611,
+      "sha256": "b0c939bbbada43ecbdd10f91deaa27556e552770b967a00459bdf43da0797820"
+    },
+    {
+      "path": "mods/particleculling-1.12.2-v1.4.3.jar",
+      "bytes": 17450,
+      "sha256": "bb00f2f5cdbe710cfa92af782581531dc0056bfedb552d05f4fddfbee5416847"
+    },
+    {
+      "path": "mods/phosphor-1.12.2-0.2.9.3-SNAPSHOT.jar",
+      "bytes": 62371,
+      "sha256": "e978b398da44911597f157faf6849918c52e5768040af7a500080f5e19dbfb4c"
+    },
+    {
+      "path": "mods/PiP-1.12.2-7.0.0.jar",
+      "bytes": 33256,
+      "sha256": "287f619a4f7ef3c1d08d27df3d8082bd852de47897524cf872556f14625e740f"
+    },
+    {
+      "path": "mods/playerplates-1.12.2-1.3.1.1.jar",
+      "bytes": 24591,
+      "sha256": "a1101ec8a6fa635670093b0fc511700c76650922a3f422d52902f556e6268c36"
+    },
+    {
+      "path": "mods/plethora-1.12.2-1.2.3.jar",
+      "bytes": 1097627,
+      "sha256": "94cc1c05725d81270aee57a3fcce58b726603c272a8d1ad527bbe1379aa85361"
+    },
+    {
+      "path": "mods/ProjectE-1.12.2-PE1.4.8-14-technic.jar",
+      "bytes": 1816020,
+      "sha256": "5a4f58bfeb131dbd796b5941bb002728e54c84eff8b0b7d546fba94272d78c2f"
+    },
+    {
+      "path": "mods/ProjectRed-1.12.2-4.9.4.120-Base.jar",
+      "bytes": 2036136,
+      "sha256": "8345e86d84cc38e8017fef9b20b1160b4a988637e14b8bcb5b817747d8e63570"
+    },
+    {
+      "path": "mods/ProjectRed-1.12.2-4.9.4.120-compat.jar",
+      "bytes": 67384,
+      "sha256": "02c2f75cc0c6630195072bd2cd5878fb60cc0b6780d4fd6a3b0f7b1f3f8ea394"
+    },
+    {
+      "path": "mods/ProjectRed-1.12.2-4.9.4.120-fabrication.jar",
+      "bytes": 1894139,
+      "sha256": "6f74f0cc3223636bae0c2a6f61dabdf377df2e4bd73db62f12e9c2356492ae9c"
+    },
+    {
+      "path": "mods/ProjectRed-1.12.2-4.9.4.120-integration.jar",
+      "bytes": 3923751,
+      "sha256": "659623f496dd457dd689c69dbd7a593453f65f78662a4af8dc624bfff33ee2eb"
+    },
+    {
+      "path": "mods/ProjectRed-1.12.2-4.9.4.120-lighting.jar",
+      "bytes": 724477,
+      "sha256": "65d3a196ff8ca2a1caf119e28ebfb37d0157730d97c9acc0c7e2601f5edbe244"
+    },
+    {
+      "path": "mods/ProjectRed-1.12.2-4.9.4.120-mechanical.jar",
+      "bytes": 2596509,
+      "sha256": "3e2f19faf3f9f19d5835a7e368d2bf855ca3d1ee82575a48182b3746d214cad8"
+    },
+    {
+      "path": "mods/ProjectRed-1.12.2-4.9.4.120-world.jar",
+      "bytes": 501169,
+      "sha256": "6b763b939c4a8517ac7fbb2a3cc7267d67e25823b60cf4231443eca3bb681c2e"
+    },
+    {
+      "path": "mods/Quark-r1.6-185-technic.jar",
+      "bytes": 3873477,
+      "sha256": "d3e11e5f4becd48e730ab893c127eac4f98597a60f729f0105f0ee268d3b625f"
+    },
+    {
+      "path": "mods/railcraft-12.1.0-beta-8.2.1-technic.jar",
+      "bytes": 5016148,
+      "sha256": "cc4a7f19655b2ac2445b033a2903608bbabd649b6ac45724f7c7c021a52d3143"
+    },
+    {
+      "path": "mods/RailwayDepotWorker-1.4.1+build.11.jar",
+      "bytes": 32889,
+      "sha256": "d41a504854e8185f649f9aba2b6bf95df8b505eb6dc5c380e23d8ae9855cfdac"
+    },
+    {
+      "path": "mods/randompatches-1.12.2-1.22.1.10.jar",
+      "bytes": 293231,
+      "sha256": "c6d836b4d14223999afcd9df143076a5a709ff2009d6604382c346d1a258284b"
+    },
+    {
+      "path": "mods/ReachFix-1.12.2-1.0.10.jar",
+      "bytes": 63253,
+      "sha256": "3396393e410d41147b00dd4e9f4a7e7e88e9f2b133287c6e19b03cbb1dc1e656"
+    },
+    {
+      "path": "mods/ReAuth-1.12-Forge-4.0.7.jar",
+      "bytes": 168847,
+      "sha256": "bfc2323d06c7059ca8f90a20add83866019e402dca3582fd544a5ad9ff3de19f"
+    },
+    {
+      "path": "mods/RebornCore-1.12.2-3.19.5-universal.jar",
+      "bytes": 2285146,
+      "sha256": "31571a6c01b9fd8daf481fa2f22615bbc99335c21f5e474a5607ea149bf2b9aa"
+    },
+    {
+      "path": "mods/Reforged-0.7.9-1.12+.jar",
+      "bytes": 677700,
+      "sha256": "8456029c94329c992619f55336662d67be954f151af617335cc770cd6b47babc"
+    },
+    {
+      "path": "mods/RenderLib-1.12.2-1.3.5.jar",
+      "bytes": 245409,
+      "sha256": "d314149e6e4c62fa14155ce44f940257a9289945ca785be17a77ed93300eb4ed"
+    },
+    {
+      "path": "mods/ResourceLoader-MC1.12.1-1.5.3.jar",
+      "bytes": 16612,
+      "sha256": "5c5ee114dccab5caca1772e3487eca04e161c494baca4d53c8fddf5cf8722e56"
+    },
+    {
+      "path": "mods/SC-IC2C-Compat-1.0.0.jar",
+      "bytes": 7389,
+      "sha256": "0e898fd47467dae2eb978ee0e93cbabf007198c9b431667aee3442f6a2dbe24b"
+    },
+    {
+      "path": "mods/Schematica-1.12.2-1.8.0.169-universal.jar",
+      "bytes": 336150,
+      "sha256": "7f2642cdc85c32ec754914e77f5bad11976c7c9c51d296e0ae4a8428d01153e8"
+    },
+    {
+      "path": "mods/serializationisbad-1.5.2.jar",
+      "bytes": 511085,
+      "sha256": "2031c8edce4b124f29a33c9ba892b9049d19fcff4c711e2aa276d051cf0d5d31"
+    },
+    {
+      "path": "mods/Sledgehammer-1.12.2-2.0.26-thin.jar",
+      "bytes": 1354215,
+      "sha256": "2b6e65e8822b728c37b12123b46955455cf6817c8357ff6b5e0b0b5c37ed1a83"
+    },
+    {
+      "path": "mods/smooth-scrolling-everywhere-1.1.jar",
+      "bytes": 1058093,
+      "sha256": "2d491d0b9a2391b405eeb00ceede801b0eebcd355a024584dc8665394463c6da"
+    },
+    {
+      "path": "mods/SmoothFont-mc1.12.2-2.1.4.jar",
+      "bytes": 283749,
+      "sha256": "986090ef0d56be1d6f46a9dae7a3669098c0e3f995ed6ba3d2b01223ce9b129a"
+    },
+    {
+      "path": "mods/SnowRealMagic-1.12.2-0.7.1.jar",
+      "bytes": 920900,
+      "sha256": "a4e08b2d416ff374fe9144b70687a1166d0bfdeead93ac2991e0ab735d07abfa"
+    },
+    {
+      "path": "mods/SpaceAmbient-1.12.2-0.0.1.jar",
+      "bytes": 31465665,
+      "sha256": "3ad398077ab0e558af1690050ebf8943d5289571ac8ef0e1e14fbf8989e1fdd2"
+    },
+    {
+      "path": "mods/statues-rechiseled-1.12.2-1.0.1.jar",
+      "bytes": 180065,
+      "sha256": "5efd826e2bc2bc854f271b5e0f5cfd04e17f23abb6fbcf2fb9d03acd36a0c172"
+    },
+    {
+      "path": "mods/StevesCarts-1.12.2-2.4.32.137.jar",
+      "bytes": 2475522,
+      "sha256": "df8b6999b59cacd90a94fa1eff5da0cdf0b5d3a3c72c0a9e6b50c12836950de9"
+    },
+    {
+      "path": "mods/Tekkit2Content-1.12.2-1.0.0.jar",
+      "bytes": 35174,
+      "sha256": "9832434da3bda468457a5c6df08b41189cec9abc0117b1077e7dad27ad24cb21"
+    },
+    {
+      "path": "mods/tesla-core-lib-1.12.2-1.0.18.jar",
+      "bytes": 1139012,
+      "sha256": "2e65e880be07a2cac3784490f93ddcba241160dbeb5191716f0e26b44b9d89d0"
+    },
+    {
+      "path": "mods/TipTheScales-1.12.2-1.0.4.jar",
+      "bytes": 11641,
+      "sha256": "91eab825f0730d412a05a40136e9f0755b9a2b9483fc92255cba08e282a1e146"
+    },
+    {
+      "path": "mods/Translocators-1.12.2-2.5.2.81-universal.jar",
+      "bytes": 446678,
+      "sha256": "f527ba59d8ab56d936b7edcd9ef0f42232dac436864603a016b83bfbb53c2384"
+    },
+    {
+      "path": "mods/tumbleweed-1.12-0.4.7.jar",
+      "bytes": 87400,
+      "sha256": "ff78f5ac00574912d60022b4a4208cc00f9d4fccfa444efcea38cf1cbb76bcce"
+    },
+    {
+      "path": "mods/UniDict-1.12.2-3.0.10.jar",
+      "bytes": 225385,
+      "sha256": "003421fa15bc84733343ad26f8bd9387bbd110df6c7ff860cae87ec11f85399d"
+    },
+    {
+      "path": "mods/UniversalTweaks-1.12.2-1.12.1-686.jar",
+      "bytes": 1459980,
+      "sha256": "35cba554a895ffbda0045bdd60702635bfecc9974f32ede01923c48369a43c40"
+    },
+    {
+      "path": "mods/ViewEMC-1.12.2-v8.jar",
+      "bytes": 4422,
+      "sha256": "f335aa8a49f53123a7156a2e1a9c4a14996b289abb138211d2b634bb12ed1e37"
+    },
+    {
+      "path": "mods/vintagefix-0.5.1.jar",
+      "bytes": 1017716,
+      "sha256": "b02e845325828ebbdb46b78b6ac8d7241939a6df03aa422e4e34392a8c81f73c"
+    },
+    {
+      "path": "mods/VoxelMapFixes-1.12.2-1.0.7.jar",
+      "bytes": 17460,
+      "sha256": "1e72c88547c589e9f14604ff55027c1dcf91de5a51ef58533f3c8d56583f2ddf"
+    },
+    {
+      "path": "mods/WailaHarvestability-mc1.12-1.1.12.jar",
+      "bytes": 31462,
+      "sha256": "f445cdccfe824a895ace7cb83d29cfb17d5b3c3383949298e44c2da8697237f0"
+    },
+    {
+      "path": "mods/WanionLib-1.12.2-2.91.jar",
+      "bytes": 223035,
+      "sha256": "6dbb4140af8171d07752abfe225d6ad0a6981b4dc143b53d78fed4ea0ea3f00c"
+    },
+    {
+      "path": "mods/WR-CBE-1.12.2-2.3.2.33-universal-patched.jar",
+      "bytes": 349774,
+      "sha256": "9564e0f7efae5c01bf4c8d192437d25abee4f26be84e53a7aa8e73b3e5074cbd"
+    },
+    {
+      "path": "mods/zettaindustries-1.3-1.12.2-166.jar",
+      "bytes": 1559326,
+      "sha256": "9401b4c8346c755743c5480fa15dc905b4a9f96ec16ee240cc65ec6699c2ba2a"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[Unit]
+Description=Keep the Nintekkit Switch awake
+Requires=systemd-logind.service
+After=systemd-logind.service
+
+[Service]
+Type=exec
+ExecStart=/usr/bin/systemd-inhibit --what=idle:sleep --mode=block --who=Nintekkit --why=Setup-and-gameplay /usr/bin/sleep infinity
+Restart=on-failure
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target
